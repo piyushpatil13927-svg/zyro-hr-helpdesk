@@ -1,0 +1,62 @@
+question_id,question_enc,answer_enc,streamlit_link,langsmith_link
+Q01,How many days of earned leave do employees get per year?,"According to the Leave_Policy.pdf, all permanent employees receive 18 days of Earned Leave (EL) per calendar year. Leave accrues at 1.5 days per month.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q02,What is the WFH policy for confirmed employees?,"According to the WFH_Policy.pdf, confirmed employees who have completed their probation period (6 months) are eligible for Work From Home (WFH). The standard hybrid model allows for up to 2 WFH days per week. Key points for confirmed employees include:
+* Eligibility: Completed probation period (6 months)
+* WFH frequency: Up to 2 WFH days per week
+* Core hours: Online during core hours (10:00 AM – 4:00 PM IST)
+* Attendance: Mark attendance in HRIS every WFH day before 9:30 AM
+* Productivity: Weekly status reports mandatory for employees on extended WFH (>3 months) 
+
+Please note that additional WFH days require documented approval from the department head, and extended WFH (>3 months) requires HR and VP approval.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q03,How is EPF (Provident Fund) calculated and deducted from salary?,"According to the Payroll_Policy.pdf, the EPF (Provident Fund) calculation and deduction are as follows:
+* Employee contribution: 12% of (Basic + DA)
+* Employer contribution: 12% of (Basic + DA) — over and above CTC
+* EPF account is created within 30 days of joining, and nomination must be updated in HRIS. 
+
+This information provides the details on how EPF is calculated and deducted from the salary.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q04,What is the notice period after probation confirmation?,"According to the Onboarding_Policy.pdf, the notice period after probation confirmation varies based on the employee's level:
+* For Individual Contributor (IC) level: 60 days
+* For Manager and above: 90 days
+Buyout is also allowed by paying the equivalent gross salary, and garden leave is at the company's discretion.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q05,What is the maternity leave entitlement at Zyro Dynamics?,"According to the Leave_Policy.pdf, the maternity leave entitlement at Zyro Dynamics is 26 weeks of paid Maternity Leave, as per the Maternity Benefit Act, 1961. This benefit is available for up to 2 children. Additionally, adoptive mothers are entitled to 12 weeks of paid leave.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q06,What health insurance benefits are provided to employees?,"According to the Payroll_Policy.pdf, the health insurance benefits provided to employees include:
+* Group Medical Coverage (GMC): Employee + Spouse + 2 dependent children, with a Sum Insured of Rs. 5,00,000 per family per year.
+* Cashless hospitalisation at 5,000+ network hospitals.
+* Pre-existing diseases covered from Day 1.
+* Dental: Rs. 5,000/year.
+* Vision: Rs. 3,000/year.
+* Term Life Insurance: 3× Annual CTC (minimum Rs. 50 lakhs).
+* Gym/Fitness reimbursement: Rs. 1,000/month.
+* Mental health: Up to 5 free counselling sessions/year via EAP.
+* Optional NPS with 10% employer contribution of Basic + DA.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q07,How is the performance rating scale structured?,"According to the Performance_Policy.pdf, the performance rating scale is structured as follows:
+* 5 — Exceptional: Consistently and significantly exceeds expectations
+* 4 — Exceeds Expectations: Frequently exceeds targets
+* 3 — Meets Expectations: Consistently delivers on all targets
+* 2 — Needs Improvement: Partially meets expectations
+* 1 — Unsatisfactory: Fails to meet minimum expectations",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q08,How do I claim business travel reimbursement?,"According to the Travel_Policy.pdf, to claim business travel reimbursement, you should:
+* Submit your expense claim in HRIS within 15 days of return.
+* Include receipts for all individual expenses above Rs. 500.
+* Ensure that your claim is submitted within the specified timeframe, as claims after 30 days will not be processed.
+* Reimbursement will be credited to your salary account within 15 working days.
+
+Please note that you should have obtained pre-approval for your business travel from your department head and HR before embarking on your trip, as per the policy.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q09,What is the POSH policy and how do I report harassment?,"According to the Conduct_Policy.pdf, Zyro Dynamics has a zero-tolerance policy toward sexual harassment. The key points of the POSH (Prevention of Sexual Harassment) policy are:
+* Zero-tolerance policy toward sexual harassment
+* An Internal Complaints Committee (ICC) is established per the POSH Act, 2013
+* Complaints must be filed within 3 months of the incident
+* Anonymous reporting is available via the HR helpline
+
+If you need to report harassment, you can file a complaint with the Internal Complaints Committee (ICC) or use the anonymous reporting option via the HR helpline.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q10,How is Full and Final (F&F) settlement calculated?,"According to the Onboarding_Policy.pdf, Full and Final (F&F) settlement includes:
+* Unpaid salary
+* Earned leave encashment
+* Gratuity (if eligible)
+
+Gratuity is payable after 5 years of continuous service. The F&F settlement is processed within 45 days of the last working day. Additionally, PF settlement is done via EPFO, which takes 15-30 days separately.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q11,What is the weather forecast for Bangalore this week?,"I'm sorry, but that question is outside the scope of the Zyro Dynamics HR Help Desk. I can only answer questions about Zyro Dynamics HR policies — such as leave, payroll, benefits, performance, conduct, and onboarding. For other queries, please consult the appropriate resource or department.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q12,Can you write a Python script to sort a list?,"I'm sorry, but that question is outside the scope of the Zyro Dynamics HR Help Desk. I can only answer questions about Zyro Dynamics HR policies — such as leave, payroll, benefits, performance, conduct, and onboarding. For other queries, please consult the appropriate resource or department.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q13,Who won the IPL cricket tournament last year?,"I'm sorry, but that question is outside the scope of the Zyro Dynamics HR Help Desk. I can only answer questions about Zyro Dynamics HR policies — such as leave, payroll, benefits, performance, conduct, and onboarding. For other queries, please consult the appropriate resource or department.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q14,What is a good recipe for chicken biryani?,"I'm sorry, but that question is outside the scope of the Zyro Dynamics HR Help Desk. I can only answer questions about Zyro Dynamics HR policies — such as leave, payroll, benefits, performance, conduct, and onboarding. For other queries, please consult the appropriate resource or department.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
+Q15,What is the current price of Bitcoin?,"I'm sorry, but that question is outside the scope of the Zyro Dynamics HR Help Desk. I can only answer questions about Zyro Dynamics HR policies — such as leave, payroll, benefits, performance, conduct, and onboarding. For other queries, please consult the appropriate resource or department.",https://zyro-hr-appdesk-rwvb49jeow3wgknfpxt6jv.streamlit.app/,https://smith.langchain.com/public/95bbe40b-e5a6-4741-8ceb-28e0cf68113e/r
