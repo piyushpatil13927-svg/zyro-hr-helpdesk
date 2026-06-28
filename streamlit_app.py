@@ -449,7 +449,7 @@ Provide a grounded answer referencing only the context above."""
         ("human", HR_PROMPT),
     ])
 
-    llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.05, max_tokens=1024)
+    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0.05, max_tokens=1024)
 
     def fmt(docs):
         return "\n\n---\n\n".join(
